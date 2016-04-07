@@ -8,6 +8,7 @@ Games include:
 - Apple Picker
 - Remember that Rapper
 - Space Shooter
+![Alt text](/relative/screenshots/1.png?raw=true "Optional Title")
 
 ##Rock Paper Scissors
 As it sounds, it is a rock, paper, scissors game.
