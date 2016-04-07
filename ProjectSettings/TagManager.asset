@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Apple
+  - ProjectilePlayer
+  - Enemy
+  - Enemy Weapons
+  - PowerUp
+  - ProjectileEnemy
+  - Menu
+  - EnemyShootToggle
+  - EnemySetting
+  - Background Image
+  - EnemyActiveToggle
+  - Enemy Num Left
+  - Kid Cudi
+  - Jay Z
+  - Future
+  - Childish Gambino
+  - Kendrick Lamar
+  - Drake
+  - Kanye West
+  - Lil Wayne
+  - Eminem
+  - J. Cole
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - AppleTree
+  - Apple
+  - Basket
+  - Player
+  - Enemy
+  - ProjectilePlayer
+  - ProjectileEnemy
+  - PowerUp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
