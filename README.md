@@ -14,7 +14,7 @@ Games include:
 - Space Shooter
 
 ##Space Shooter
-This game is based off the official Unity tutorial Shooter game. I decided to take it and tweak/play with it. You control a space ship and shoot the invading enemy ships. OFfers the most customization in the entire set of minigames. 
+This game is based off the official Unity tutorial Shooter game. I decided to take it and tweak/play with it. You control a space ship and shoot the invading enemy ships. Offers the most customization in the entire set of minigames. 
 ![](/screenshots/3.png?raw=true "Optional Title")
 ![](/screenshots/4.png?raw=true "Optional Title")
 ![](/screenshots/5.png?raw=true "Optional Title")
