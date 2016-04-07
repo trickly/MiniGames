@@ -35,3 +35,6 @@ As it sounds, it is a rock, paper, scissors game.
 This game is a memory-based matching game. There are a number of pairs of various rappers and they're all mixed in. Flip a card and try your best to remember the location of it as you flip through more and try to match it.
 ![](/screenshots/11.png?raw=true "Optional Title")
 ![](/screenshots/12.png?raw=true "Optional Title")
+
+##Misc.
+Produced using C#, Unity, Visual Studio, Adobe Photoshop.
